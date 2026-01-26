@@ -1,4 +1,4 @@
-# Acosta AIML Test Repo
+# AIML Test Repository
 
 Three mini-products:
 - apps/churn: churn model train -> MLflow -> FastAPI endpoint
