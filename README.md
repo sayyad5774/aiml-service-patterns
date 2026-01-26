@@ -1,4 +1,4 @@
-# Acosta AIML Practice Repo
+# Acosta AIML Test Repo
 
 Three mini-products:
 - apps/churn: churn model train -> MLflow -> FastAPI endpoint
@@ -15,6 +15,11 @@ Three mini-products:
    - Churn: python -m churn.train && python -m churn.serve
    - RAG:   python -m rag_policy.ingest && python -m rag_policy.serve
    - Anom:  python -m anomaly_ops.detect && python -m anomaly_ops.serve
+
+
+> **Note:** This repository was bootstrapped as a multi-service skeleton and
+> iteratively refined. Some directories share early commit history by design.
+> Subsequent changes are scoped and intentional.
 
 
 # AIML Service Patterns
